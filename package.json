@@ -1,0 +1,16 @@
+{
+  "name": "aws-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "toyota_old.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "socket.io-client": "^4.7.5"
+  }
+}
