@@ -36,6 +36,13 @@ coverage/
 # Dependency directories
 jspm_packages/
 bower_components/
+vendor/
+
+# Compiled Files
+*.class
+*.pyc
+*.pyo
+__pycache__/
 
 # Optional npm cache directory
 .npm
